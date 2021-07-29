@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/new/prefix2">
-        <file>grilleDebutant.csv</file>
-        <file>grilleExpert.csv</file>
-        <file>grilleFacile.csv</file>
-        <file>grilleIntermediaire.csv</file>
-    </qresource>
-</RCC>

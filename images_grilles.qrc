@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/new/prefix1">
-        <file>noir.png</file>
-        <file>orange.png</file>
-        <file>rouge.png</file>
-        <file>vert.png</file>
-    </qresource>
-</RCC>

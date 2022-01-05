@@ -28,9 +28,14 @@ Si le chiffre n'est pas bien placé, alors il est écrit en rouge.
 
 - Dans les ressources, on a les .csv qui sont les grilles de différents niveaux. Il y a également 4 images (.png) qui permettent de faire les pastilles représentant le niveau des grilles dans le menu déroulant. 
 
+
+
+
+# Quelques visuels : 
 ![Visuel](visuels/1.png)
 
+![Visuel](visuels/4.png)
 
 
 
-- afficher un message/colorier la case en rouge quand il y a un problème lors de l'ajout d'un chiffre
+
